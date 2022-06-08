@@ -1,32 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://henry-yip.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://henry-yip.github.io//" rel="alternate" type="text/html" /><updated>2022-06-07T17:23:34+08:00</updated><id>https://henry-yip.github.io//feed.xml</id><title type="html">A Platform for Everyone</title><subtitle>A Platform for Everyone</subtitle><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><entry><title type="html">Notable Chess Players</title><link href="https://henry-yip.github.io//2022/06/06/ChessPlayers.html" rel="alternate" type="text/html" title="Notable Chess Players" /><published>2022-06-06T00:00:00+08:00</published><updated>2022-06-06T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/06/ChessPlayers</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/06/ChessPlayers.html"><![CDATA[<p>Chess.com created the CAPS</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Chess" /><summary type="html"><![CDATA[Chess.com created the CAPS]]></summary></entry><entry><title type="html">Tropical Cyclones</title><link href="https://henry-yip.github.io//2022/06/06/TropicalCyclones.html" rel="alternate" type="text/html" title="Tropical Cyclones" /><published>2022-06-06T00:00:00+08:00</published><updated>2022-06-06T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/06/TropicalCyclones</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/06/TropicalCyclones.html"><![CDATA[<p><strong>Disclaimer:</strong>
-This publication / website / product / service contains information that is copied or extracted from data made available in the publications of the Hong Kong Observatory (the “Observatory”). The provision of the information copied or extracted from the Observatory’s publications shall not be constituted as any form of co-operation or affiliation by the Observatory with any person in relation to this publication / website / product / service or any contents herein. Nothing in this publication, the product or the service shall give rise to any representation, warranty or implication that the Observatory agrees with, approves of, recommends or endorses this publication / website / product / service. The Observatory does not have any liability, obligation or responsibility whatsoever for any loss, destruction or damages (including without limitation consequential loss, destruction or damages) howsoever arising from or in respect of your use or misuse of or reliance on or inability to use any contents herein.</p>
-
-<p><strong>I made a video on Tropical Cyclones around 7 years ago (in cantonese), that serves as a really good intro</strong></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1M6ddj9GdH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<p>For those interested in Hong Kong’s tropical cyclone history, you should take a look of <a href="http://www.hkww.org/weather/tcreview.html">this website</a></p>
-
-<p>Before everything, try to understand <a href="https://www.hko.gov.hk/en/education/weather/wind-and-pressure/00112-beaufort-wind-scale.html">the beautfort wind scale</a></p>
-
-<p>And the tropical cyclone signals issued by HKO:</p>
-
-<iframe src="/assets/signal.png" width="150%" height="440px"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Tropical" /><category term="Cyclones" /><summary type="html"><![CDATA[Disclaimer: This publication / website / product / service contains information that is copied or extracted from data made available in the publications of the Hong Kong Observatory (the “Observatory”). The provision of the information copied or extracted from the Observatory’s publications shall not be constituted as any form of co-operation or affiliation by the Observatory with any person in relation to this publication / website / product / service or any contents herein. Nothing in this publication, the product or the service shall give rise to any representation, warranty or implication that the Observatory agrees with, approves of, recommends or endorses this publication / website / product / service. The Observatory does not have any liability, obligation or responsibility whatsoever for any loss, destruction or damages (including without limitation consequential loss, destruction or damages) howsoever arising from or in respect of your use or misuse of or reliance on or inability to use any contents herein.]]></summary></entry><entry><title type="html">Daily Chess Puzzles (Updated Automatically)</title><link href="https://henry-yip.github.io//2022/06/05/ChessPuzzles.html" rel="alternate" type="text/html" title="Daily Chess Puzzles (Updated Automatically)" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/05/ChessPuzzles</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/05/ChessPuzzles.html"><![CDATA[<ul>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-06T10:47:07+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">A Platform for Everyone</title><subtitle>A Platform for Everyone</subtitle><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><entry><title type="html">Daily Chess Puzzles (Updated Automatically)</title><link href="http://localhost:4000/2022/06/05/ChessPuzzles.html" rel="alternate" type="text/html" title="Daily Chess Puzzles (Updated Automatically)" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/05/ChessPuzzles</id><content type="html" xml:base="http://localhost:4000/2022/06/05/ChessPuzzles.html"><![CDATA[<ul>
   <li><strong>Your Daily Puzzle from Lichess!</strong></li>
   <li><strong>It is updated daily and automatically!</strong></li>
   <li><strong>Click in to solve it/check analysis!</strong></li>
 </ul>
 
-<iframe src="https://lichess.org/training/frame?theme=brown&amp;bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Chess" /><summary type="html"><![CDATA[Your Daily Puzzle from Lichess! It is updated daily and automatically! Click in to solve it/check analysis!]]></summary></entry><entry><title type="html">Game 2</title><link href="https://henry-yip.github.io//2022/06/05/Game2.html" rel="alternate" type="text/html" title="Game 2" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/05/Game2</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/05/Game2.html"><![CDATA[<p><strong>Rapid Game 10 minutes, no increments</strong></p>
+<iframe src="https://lichess.org/training/frame?theme=brown&amp;bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Chess" /><summary type="html"><![CDATA[Your Daily Puzzle from Lichess! It is updated daily and automatically! Click in to solve it/check analysis!]]></summary></entry><entry><title type="html">Game 2</title><link href="http://localhost:4000/2022/06/05/Game2.html" rel="alternate" type="text/html" title="Game 2" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/05/Game2</id><content type="html" xml:base="http://localhost:4000/2022/06/05/Game2.html"><![CDATA[<p><strong>Rapid Game 10 minutes, no increments</strong></p>
 
 <ul>
   <li><strong>White: Stockfish</strong></li>
   <li><strong>Black: Fairymax</strong></li>
 </ul>
 
-<iframe width="600" height="371" src="https://lichess.org/study/embed/NZrn1Y3s/vBRl3zog" frameborder="0"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Rapid Game 10 minutes, no increments]]></summary></entry><entry><title type="html">Game 1</title><link href="https://henry-yip.github.io//2022/06/05/Game1.html" rel="alternate" type="text/html" title="Game 1" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/05/Game1</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/05/Game1.html"><![CDATA[<p>I have installed two chess engines -Fairy Max and Stockfish in my computer so they can play bullet (i.e. 1 min each, no increments). As a chess variation enthuasiast, <strong>I also disabled castling to add more variety (yay!)</strong> (My next post will likely be on Chess960, a chess variation)</p>
-
-<p><strong>I have no idea if they disabled en-passant though…</strong></p>
+<iframe width="600" height="371" src="https://lichess.org/study/embed/NZrn1Y3s/vBRl3zog" frameborder="0"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Rapid Game 10 minutes, no increments]]></summary></entry><entry><title type="html">Game 1</title><link href="http://localhost:4000/2022/06/05/Game1.html" rel="alternate" type="text/html" title="Game 1" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/05/Game1</id><content type="html" xml:base="http://localhost:4000/2022/06/05/Game1.html"><![CDATA[<p>I have installed two chess engines -Fairy Max and Stockfish in my computer so they can play bullet (i.e. 1 min each, no increments). As a chess variation enthuasiast, I also disabled castling to add more variety (yay!) (My next post will likely be on Chess960, a chess variation)</p>
 
 <p><strong>Rapid Game 10 minutes, no increments</strong></p>
 
@@ -42,16 +27,23 @@ You can analyse it for free in <a href="https://lichess.org/analysis">lichess an
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. d5 Nc5 6. Nc3 d6 7. Nf3 Bf5 8. Nd4 Bd7 9. Qe2 e6 10. b4 Nca6 11. Rb1 c5 12. dxe6 fxe6 13. bxc5 dxc5 14. Ndb5 Nc6 15. Ne4 Qa5+ 16. c3 Kf7 17. Qh5+ Kg8 18. Nf6+ gxf6 19. exf6 Nd8 20. Be2 Be8 21. Qxe8 Qxa2 22. Rb2 Qd5 23. Rd2 Qxg2 24. Rf1 Qg6 25. f7+ Kg7 26. Rxd8 Rxd8 27. Qxd8 Kxf7 28. f4 Kg8 29. f5 Qg7 30. Bh6 Qxh6 31. Rg1+ Qg6 32. fxg6 hxg6 33. Qe8 Rh6 34. Qxe6+ Kg7 35. Bc4 Rxh2 36. Rxg6+ Kh7 37. Qg8#
 </code></pre></div></div>
-<p><strong><a href="/2022/05/31/Alekhine.html">Please check my article on this type of openings (it’s considered as an inaccuracy by black!)</a></strong></p>
+
+<p>This is an example of the Alekhine’s defence, with a suprising move 2…Ne4? (Also known as Mokele-mbembe variation) that results in a rather significant advantage for white after 3.d3 (In fact, 3.d4 is a better move)</p>
+
+<p>After</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. d5 
+</code></pre></div></div>
+<p><strong>White</strong> is just strictly better. The knight is being chased around!</p>
+
 <h2 id="the-blunder">The Blunder</h2>
 
 <p>The Blunder occurs at 14…Nc6??. Black simply forgot that the queen is threatening mate with the knight and bishop and without moving 14…Be7. After several attacks by white, black has to kingwalk to g8 after some very desperate checks, but all was over at that point.</p>
 
-<iframe width="600" height="371" src="https://lichess.org/study/embed/ExVsKSc6/85Jh9w7f#28" frameborder="0"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[I have installed two chess engines -Fairy Max and Stockfish in my computer so they can play bullet (i.e. 1 min each, no increments). As a chess variation enthuasiast, I also disabled castling to add more variety (yay!) (My next post will likely be on Chess960, a chess variation)]]></summary></entry><entry><title type="html">My Random Thoughts</title><link href="https://henry-yip.github.io//2022/06/03/MyRandomThoughts.html" rel="alternate" type="text/html" title="My Random Thoughts" /><published>2022-06-03T00:00:00+08:00</published><updated>2022-06-03T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/03/MyRandomThoughts</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/03/MyRandomThoughts.html"><![CDATA[<p>Welcome to this page!</p>
+<iframe width="600" height="371" src="https://lichess.org/study/embed/ExVsKSc6/85Jh9w7f#28" frameborder="0"></iframe>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[I have installed two chess engines -Fairy Max and Stockfish in my computer so they can play bullet (i.e. 1 min each, no increments). As a chess variation enthuasiast, I also disabled castling to add more variety (yay!) (My next post will likely be on Chess960, a chess variation)]]></summary></entry><entry><title type="html">My Random Thoughts</title><link href="http://localhost:4000/2022/06/03/MyRandomThoughts.html" rel="alternate" type="text/html" title="My Random Thoughts" /><published>2022-06-03T00:00:00+08:00</published><updated>2022-06-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/03/MyRandomThoughts</id><content type="html" xml:base="http://localhost:4000/2022/06/03/MyRandomThoughts.html"><![CDATA[<p>Welcome to this page!</p>
 <ul>
   <li><a href="/2022/06/03/MyProgress.html">My Progress in Everything</a></li>
   <li><a href="/2022/06/03/HowToStudy.html">How to study Physics</a></li>
-</ul>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Journal" /><summary type="html"><![CDATA[Welcome to this page! My Progress in Everything How to study Physics]]></summary></entry><entry><title type="html">My Progress in everything</title><link href="https://henry-yip.github.io//2022/06/03/MyProgress.html" rel="alternate" type="text/html" title="My Progress in everything" /><published>2022-06-03T00:00:00+08:00</published><updated>2022-06-03T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/03/MyProgress</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/03/MyProgress.html"><![CDATA[<p>I have no idea what is happening to me…</p>
+</ul>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Journal" /><summary type="html"><![CDATA[Welcome to this page! My Progress in Everything How to study Physics]]></summary></entry><entry><title type="html">My Progress in everything</title><link href="http://localhost:4000/2022/06/03/MyProgress.html" rel="alternate" type="text/html" title="My Progress in everything" /><published>2022-06-03T00:00:00+08:00</published><updated>2022-06-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/03/MyProgress</id><content type="html" xml:base="http://localhost:4000/2022/06/03/MyProgress.html"><![CDATA[<p>I have no idea what is happening to me…</p>
 
 <p>It seems that I am spending too much time in everything, and it’s really hard to strike a balance anyways.
 Writing a page like this takes me approximately 2-3 hours and since I’m on a plane to Frankfurt right now (It’s landing, I have to turn off my computer in a min), it seems to be the only thing I can do (well I have chess installed also but I don’t know!)</p>
@@ -85,7 +77,7 @@ Writing a page like this takes me approximately 2-3 hours and since I’m on a p
   </li>
 </ul>
 
-<p>It’s quite a busy life! But I do get really bored most of the time so getting myself really busy might be a good way out.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[I have no idea what is happening to me…]]></summary></entry><entry><title type="html">How to study Physics?</title><link href="https://henry-yip.github.io//2022/06/03/HowToStudy.html" rel="alternate" type="text/html" title="How to study Physics?" /><published>2022-06-03T00:00:00+08:00</published><updated>2022-06-03T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/03/HowToStudy</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/03/HowToStudy.html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>It’s quite a busy life! But I do get really bored most of the time so getting myself really busy might be a good way out.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[I have no idea what is happening to me…]]></summary></entry><entry><title type="html">How to study Physics?</title><link href="http://localhost:4000/2022/06/03/HowToStudy.html" rel="alternate" type="text/html" title="How to study Physics?" /><published>2022-06-03T00:00:00+08:00</published><updated>2022-06-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/03/HowToStudy</id><content type="html" xml:base="http://localhost:4000/2022/06/03/HowToStudy.html"><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Physics is definitely one of the harder subjects to master (<em>if</em> you can master Physics after all!)</p>
 
 <h3 id="skipping-lectures">Skipping lectures</h3>
@@ -102,10 +94,10 @@ Writing a page like this takes me approximately 2-3 hours and since I’m on a p
 <p>If you are a physicist, make sure to check out hyperphysics, it’s <em>very</em> brilliant.</p>
 
 <h3 id="books">Books</h3>
-<p>Obviously the more rigorous ways to learn new and advanced materials is to read actual textbooks. If you want to learn it deeply, make sure to do the exercises because oftern times, you think you understand but you actually don’t!</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Introduction Physics is definitely one of the harder subjects to master (if you can master Physics after all!)]]></summary></entry><entry><title type="html">Andy Ng’s Introduction</title><link href="https://henry-yip.github.io//2022/06/01/Andy.html" rel="alternate" type="text/html" title="Andy Ng’s Introduction" /><published>2022-06-01T00:00:00+08:00</published><updated>2022-06-01T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/01/Andy</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/01/Andy.html"><![CDATA[<h2 id="education">Education</h2>
+<p>Obviously the more rigorous ways to learn new and advanced materials is to read actual textbooks. If you want to learn it deeply, make sure to do the exercises because oftern times, you think you understand but you actually don’t!</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Introduction Physics is definitely one of the harder subjects to master (if you can master Physics after all!)]]></summary></entry><entry><title type="html">Andy Ng’s Introduction</title><link href="http://localhost:4000/2022/06/01/Andy.html" rel="alternate" type="text/html" title="Andy Ng’s Introduction" /><published>2022-06-01T00:00:00+08:00</published><updated>2022-06-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/01/Andy</id><content type="html" xml:base="http://localhost:4000/2022/06/01/Andy.html"><![CDATA[<h2 id="education">Education</h2>
 <p>2015-2021 <strong>St Paul’s Co-educational College</strong></p>
 
-<p>2021-2025 <strong>The University of Hong Kong</strong></p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Andy" /><summary type="html"><![CDATA[Education 2015-2021 St Paul’s Co-educational College]]></summary></entry><entry><title type="html">How to learn Blind Chess?</title><link href="https://henry-yip.github.io//2022/06/01/Blindchess.html" rel="alternate" type="text/html" title="How to learn Blind Chess?" /><published>2022-06-01T00:00:00+08:00</published><updated>2022-06-01T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/01/Blindchess</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/01/Blindchess.html"><![CDATA[<h3 id="motivation">Motivation</h3>
+<p>2021-2025 <strong>The University of Hong Kong</strong></p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Andy" /><summary type="html"><![CDATA[Education 2015-2021 St Paul’s Co-educational College]]></summary></entry><entry><title type="html">How to learn Blind Chess?</title><link href="http://localhost:4000/2022/06/01/Blindchess.html" rel="alternate" type="text/html" title="How to learn Blind Chess?" /><published>2022-06-01T00:00:00+08:00</published><updated>2022-06-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/06/01/Blindchess</id><content type="html" xml:base="http://localhost:4000/2022/06/01/Blindchess.html"><![CDATA[<h3 id="motivation">Motivation</h3>
 <p>Mastering Blind Chess requires quite an intensitve training. It’s not only cool, but also improves your visualization skills and hence get better in middle games.</p>
 <h3 id="training-method">Training Method</h3>
 <ul>
@@ -157,4 +149,57 @@ Writing a page like this takes me approximately 2-3 hours and since I’m on a p
   </li>
 </ul>
 
-<p>After these, you should be sufficiently proficient in Blind Chess.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Motivation Mastering Blind Chess requires quite an intensitve training. It’s not only cool, but also improves your visualization skills and hence get better in middle games. Training Method Step 1: Master Chess Coordinates There are tons of platforms for this. Check THIS one for example. Generally aim 20-25 before proceeding to the next step]]></summary></entry></feed>
+<p>After these, you should be sufficiently proficient in Blind Chess.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Motivation Mastering Blind Chess requires quite an intensitve training. It’s not only cool, but also improves your visualization skills and hence get better in middle games. Training Method Step 1: Master Chess Coordinates There are tons of platforms for this. Check THIS one for example. Generally aim 20-25 before proceeding to the next step]]></summary></entry><entry><title type="html">Alekhine Defense</title><link href="http://localhost:4000/2022/05/31/Alekhine.html" rel="alternate" type="text/html" title="Alekhine Defense" /><published>2022-05-31T00:00:00+08:00</published><updated>2022-05-31T00:00:00+08:00</updated><id>http://localhost:4000/2022/05/31/Alekhine</id><content type="html" xml:base="http://localhost:4000/2022/05/31/Alekhine.html"><![CDATA[<h2 id="who-is-alekhine">Who is Alekhine?</h2>
+
+<h2 id="four-pawns-attack">Four Pawns Attack</h2>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4
+</code></pre></div></div>
+
+<h2 id="a-slight-detour--mokele-mbembe-variation">A slight detour – Mokele-mbembe variation</h2>
+
+<p>As explained in <a href="https://www.chess.com/blog/ThePawnSlayer/opening-myths-the-mystery-of-the-mokele-mbembe-variation">this post</a></p>
+
+<h3 id="3f6">3…f6</h3>
+<p>After 3…f6 white is simply better because the knight on e4 is desparately alone, allowing developmental moves like 4.Bd3. After that we can analyse two moves:</p>
+
+<h4 id="4d5">4…d5</h4>
+<p>Seems like the only acceptable move with (+1.8) (depth 24). After that we can try 5.Nc3 which attacks d5. If the opponent takes our knight Qd5# is final nail in the coffin, as the innocent move g6 is met by Bxg6! (! Means Good Move) and black is strictly losing.</p>
+
+<h4 id="4f5">4…f5??</h4>
+<p>4…f5?? has (+5.9) (depth 24)
+The reason is 5. f3 traps the knight. White is also much more developed.</p>
+
+<h3 id="3e6">3…e6</h3>
+<p>After 4.Bd3 , 4…d5 is again, the best move as 4…Ng5 is simply trapping the knight after 5.h4. 5.Nh3! is surprisingly good as 5…kg5 is no longer available</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Who is Alekhine?]]></summary></entry><entry><title type="html">How should I learn Chess?</title><link href="http://localhost:4000/2022/05/31/HowshouldIlearnchess.html" rel="alternate" type="text/html" title="How should I learn Chess?" /><published>2022-05-31T00:00:00+08:00</published><updated>2022-05-31T00:00:00+08:00</updated><id>http://localhost:4000/2022/05/31/HowshouldIlearnchess</id><content type="html" xml:base="http://localhost:4000/2022/05/31/HowshouldIlearnchess.html"><![CDATA[<p>Chess consists of 3 parts: Opening, Middlegame and Endgame</p>
+
+<h2 id="how-to-improve-openings">How to Improve Openings</h2>
+
+<p>First, make sure to check my posts on [chess openings]
+Openings have set theories and you need to grind through it. If you don’t have much time, I recommend you to play openings like London, where your moves don’t vary with much with how your opponent plays.</p>
+
+<p>If you don’t play those types of openings, you really need to memorize <strong>almost all</strong> of the variations. For example, in <a href="https://en.wikipedia.org/wiki/Alekhine%27s_Defence">Alekhine Defense</a>), if you play:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1.e4 Nf6 2. e5 Ne4?!
+</code></pre></div></div>
+<p>You are lost already! Please check <a href="/2022/05/31/Alekhine.html">my post on the Alekhine Defense</a> for more details.</p>
+
+<p>There are tons of resources for you to learn. Usually the longer the video, obviously the more throughout it is, but I generally like <a href="https://www.youtube.com/c/GothamChess">GothamChess</a>.</p>
+
+<p>(Side Note: If you want to learn the stafford gambit stick with <a href="https://www.youtube.com/user/RosenChess">Eric Rosen</a></p>
+
+<h2 id="how-to-improve-middlegame">How to Improve Middlegame</h2>
+<p>Puzzles Puzzles Puzzles!
+Go to Lichess, create an account, and do all the Healthy Mix Puzzles. Generally spend 5 mins in each one. Please don’t care too much about the rating, analyse the position with stockfish no matter if you get it right or not.</p>
+
+<p>(I personally have an account and my puzzles rating is around 2150, which is fairly decent but not the best)</p>
+
+<p>You can analyse famous games by yourselves. Get yourself in a random position and think: What will I do next? Then analyse by stockfish or find analysis videos in Youtube.</p>
+
+<h2 id="how-to-improve-endgame">How to Improve Endgame</h2>
+
+<p>Endgame theories are all set and highly theoretical.</p>
+
+<p>In order to suceed, you need to understand the theory behind the endgame tactics.</p>
+
+<p>First of all, learn how to checkmate in endgames. For example, how to checkmate with a Queen and a king? What about 2 knights? 1 knight and 1 bishop?</p>
+
+<p>Afterwards, learn how to draw endgames. The theories are quite complicated but as long as you understand, you can draw in every scenario.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[Chess consists of 3 parts: Opening, Middlegame and Endgame]]></summary></entry></feed>
