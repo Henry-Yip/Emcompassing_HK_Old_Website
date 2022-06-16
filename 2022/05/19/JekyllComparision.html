@@ -3,22 +3,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Complexity of Jekyll vs WYSIMYG websites (Henry) | A Platform for Everyone</title>
+<title>Downloading and Using Jekyll (Window Users) | A Platform for Everyone</title>
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Complexity of Jekyll vs WYSIMYG websites (Henry)" />
+<meta property="og:title" content="Downloading and Using Jekyll (Window Users)" />
 <meta name="author" content="Henry Yip" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A showcase of the complexity of Jekyll On the top of this page, you can see my social media links with 4 cute avatars. Guess what I need to code? (I copied the outline and edited the details. All credits to the original author) ```bash" />
-<meta property="og:description" content="A showcase of the complexity of Jekyll On the top of this page, you can see my social media links with 4 cute avatars. Guess what I need to code? (I copied the outline and edited the details. All credits to the original author) ```bash" />
+<meta name="description" content="(Updated on 14/6/2022, by Henry Yip) Downloading Jekyll You should check everything from this tutorial" />
+<meta property="og:description" content="(Updated on 14/6/2022, by Henry Yip) Downloading Jekyll You should check everything from this tutorial" />
 <link rel="canonical" href="https://henry-yip.github.io//2022/05/19/JekyllComparision.html" />
 <meta property="og:url" content="https://henry-yip.github.io//2022/05/19/JekyllComparision.html" />
 <meta property="og:site_name" content="A Platform for Everyone" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2022-05-19T00:00:00+08:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Complexity of Jekyll vs WYSIMYG websites (Henry)" />
+<meta property="twitter:title" content="Downloading and Using Jekyll (Window Users)" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Henry Yip"},"dateModified":"2022-05-19T00:00:00+08:00","datePublished":"2022-05-19T00:00:00+08:00","description":"A showcase of the complexity of Jekyll On the top of this page, you can see my social media links with 4 cute avatars. Guess what I need to code? (I copied the outline and edited the details. All credits to the original author) ```bash","headline":"Complexity of Jekyll vs WYSIMYG websites (Henry)","mainEntityOfPage":{"@type":"WebPage","@id":"https://henry-yip.github.io//2022/05/19/JekyllComparision.html"},"url":"https://henry-yip.github.io//2022/05/19/JekyllComparision.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Henry Yip"},"dateModified":"2022-05-19T00:00:00+08:00","datePublished":"2022-05-19T00:00:00+08:00","description":"(Updated on 14/6/2022, by Henry Yip) Downloading Jekyll You should check everything from this tutorial","headline":"Downloading and Using Jekyll (Window Users)","mainEntityOfPage":{"@type":"WebPage","@id":"https://henry-yip.github.io//2022/05/19/JekyllComparision.html"},"url":"https://henry-yip.github.io//2022/05/19/JekyllComparision.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://henry-yip.github.io//feed.xml" title="A Platform for Everyone" /><!DOCTYPE html>
 <!-- KaTeX requires the use of the HTML5 doctype. Without it, KaTeX may not render properly -->
@@ -147,102 +147,110 @@
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Complexity of Jekyll vs WYSIMYG websites (Henry)</h1>
+    <h1 class="post-title p-name" itemprop="name headline">Downloading and Using Jekyll (Window Users)</h1>
     <p class="post-meta"><time class="dt-published" datetime="2022-05-19T00:00:00+08:00" itemprop="datePublished">
         May 19, 2022
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <h2 id="a-showcase-of-the-complexity-of-jekyll">A showcase of the complexity of Jekyll</h2>
-<p>On the top of this page, you can see my social media links with 4 cute avatars. Guess what I need to code? (I copied the outline and edited the details. All credits to the <a href="https://ranvir.xyz/blog/why-and-how-to-add-social-sharing-buttons-on-your-jekyll-blog-using-github-pages/#free-advertising-for-your-jekyll-blog-using-social-share-buttons">original author</a>)</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;<span class="nb">link </span><span class="nv">href</span><span class="o">=</span><span class="s2">"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"</span> <span class="nv">rel</span><span class="o">=</span><span class="s2">"stylesheet"</span><span class="o">&gt;</span>
-&lt;div <span class="nb">id</span><span class="o">=</span><span class="s2">"share-bar-H.html"</span><span class="o">&gt;</span>
+    <p>(Updated on <strong>14/6/2022</strong>, by Henry Yip)</p>
+<h3 id="downloading-jekyll">Downloading Jekyll</h3>
+<p>You should check everything from <a href="https://jekyllrb.com/docs/">this tutorial</a></p>
 
-    &lt;h4&gt;&lt;b&gt;This page is written by Henry Yip. Please Follow Me:&lt;/b&gt;&lt;/h4&gt;
+<p>Requirements:</p>
+<ul>
+  <li><strong>Ruby</strong> Verison <strong>2.5.0</strong> or higher</li>
+  <li><strong>RubyGems</strong></li>
+  <li><strong>GCC</strong> (GNU Compiler Collection)</li>
+  <li>
+    <p><strong>Make</strong></p>
+  </li>
+  <li>You can check if the version you have installed is correct using the commands below. As long as you know how to edit <strong>path environment</strong> it should be quite trivial.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ruby <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gcc <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>g++ <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>make <span class="nt">-v</span>
+</code></pre></div>    </div>
+  </li>
+  <li>Afterwards, download <a href="https://rubyinstaller.org/downloads/">Ruby+Devkit version from RubyInstaller Downloads</a></li>
+  <li>Run <strong>Ridk install</strong> step on the last stage of the installation wizard</li>
+  <li>Go to <strong>Command Prompt</strong> and type:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> gem <span class="nb">install </span>jekyll bundler
+</code></pre></div>    </div>
+  </li>
+  <li>Then <strong>chdir</strong> into your prefered location and type:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Jekyll new ...
+</code></pre></div>    </div>
+  </li>
+  <li>For example:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C:<span class="se">\U</span>sers<span class="se">\B</span>etel&gt;cd Documents
+C:<span class="se">\U</span>sers<span class="se">\B</span>etel<span class="se">\D</span>ocuments&gt;jekyll new ScienceProject
+Running bundle <span class="nb">install </span><span class="k">in </span>C:/Users/Betel/Documents/ScienceProject...
+  Bundler: Fetching gem metadata from https://rubygems.org/..........
+  Bundler: Resolving dependencies....
+  Bundler: Using bundler 2.3.14
+  Bundler: Using public_suffix 4.0.7
+  Bundler: Using colorator 1.1.0
+  Bundler: Using concurrent-ruby 1.1.10
+  Bundler: Using eventmachine 1.2.7
+  Bundler: Using http_parser.rb 0.8.0
+  Bundler: Using ffi 1.15.5 <span class="o">(</span>x64-mingw-ucrt<span class="o">)</span>
+  Bundler: Using forwardable-extended 2.6.0
+  Bundler: Using rb-fsevent 0.11.1
+  Bundler: Using rexml 3.2.5
+  Bundler: Using liquid 4.0.3
+  Bundler: Using mercenary 0.4.0
+  Bundler: Using safe_yaml 1.0.5
+  Bundler: Using unicode-display_width 1.8.0
+  Bundler: Fetching rouge 3.29.0
+  Bundler: Using addressable 2.8.0
+  Bundler: Using kramdown 2.4.0
+  Bundler: Using i18n 1.10.0
+  Bundler: Using em-websocket 0.5.3
+  Bundler: Using terminal-table 2.0.0
+  Bundler: Using sassc 2.4.0
+  Bundler: Using rb-inotify 0.10.1
+  Bundler: Using kramdown-parser-gfm 1.1.0
+  Bundler: Using pathutil 0.16.2
+  Bundler: Using listen 3.7.1
+  Bundler: Using jekyll-watch 2.2.1
+  Bundler: Using jekyll-sass-converter 2.2.0
+  Bundler: Installing rouge 3.29.0
+  Bundler: Using jekyll 4.2.2
+  Bundler: Using jekyll-feed 0.16.0
+  Bundler: Using jekyll-seo-tag 2.8.0
+  Bundler: Using minima 2.5.1
+  Bundler: Bundle <span class="nb">complete</span><span class="o">!</span> 7 Gemfile dependencies, 31 gems now installed.
+  Bundler: Use <span class="sb">`</span>bundle info <span class="o">[</span>gemname]<span class="sb">`</span> to see where a bundled gem is installed.
+New jekyll site installed <span class="k">in </span>C:/Users/Betel/Documents/ScienceProject.
+</code></pre></div>    </div>
+  </li>
+</ul>
 
-    &lt;div <span class="nv">class</span><span class="o">=</span><span class="s2">"share-buttons"</span><span class="o">&gt;</span>
-        &lt;a  <span class="nv">href</span><span class="o">=</span><span class="s2">"https://www.facebook.com/yip.henry.940/"</span>
-            <span class="nv">onclick</span><span class="o">=</span><span class="s2">"window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"</span>
-            <span class="nv">title</span><span class="o">=</span><span class="s2">"Facebook"</span> <span class="o">&gt;</span>
-            &lt;i <span class="nv">class</span><span class="o">=</span><span class="s2">"fa fa-facebook-official share-button"</span><span class="o">&gt;</span> Facebook&lt;/i&gt;
-        &lt;/a&gt;
+<h3 id="code-editor">Code Editor</h3>
+<p>I recommend using <a href="https://code.visualstudio.com/Download">VSCode</a>.
+Obviously Notepad works also but that’s my personal preference.</p>
 
-        &lt;a  <span class="nv">href</span><span class="o">=</span><span class="s2">"https://www.linkedin.com/in/henry-yip-100b05222/"</span>
-            <span class="nv">onclick</span><span class="o">=</span><span class="s2">"window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"</span>
-            <span class="nv">title</span><span class="o">=</span><span class="s2">"LinkedIn"</span> <span class="o">&gt;</span>
-            &lt;i <span class="nv">class</span><span class="o">=</span><span class="s2">"fa fa-linkedin share-button"</span><span class="o">&gt;</span> Linkedin&lt;/i&gt;
-        &lt;/a&gt;
+<h3 id="building-the-files">Building the files</h3>
+<p>The folders you have created lack details.
+It uses <strong>Minima</strong> as the Default theme, which is simplistic but quite plain.
+For example, you may want to have <strong>_includes</strong> and <strong>_layouts</strong> folders to enable <strong>google analytics</strong>, <strong>comments</strong>, <strong>search function</strong>, etc…</p>
 
-        &lt;a  <span class="nv">href</span><span class="o">=</span><span class="s2">"https://www.instagram.com/henryyiphoyin/"</span>
-            <span class="nv">title</span><span class="o">=</span><span class="s2">"Instagram"</span> <span class="o">&gt;</span>
-            &lt;i <span class="nv">class</span><span class="o">=</span><span class="s2">"fa fa-instagram share-button"</span><span class="o">&gt;</span> Instagram&lt;/i&gt;
-        &lt;/a&gt;
+<p>You can take references from websites such as the <a href="https://github.com/jekyll/minima">sample Minima Website</a> and check what to include in these folders. Also, Jekyll supports a myraid of <a href="https://en.wikipedia.org/wiki/Plug-in_(computing)">plugins</a>.
+If you want to include mathematical symbols in your website, make sure to check out:</p>
 
-        &lt;a  <span class="nv">href</span><span class="o">=</span><span class="s2">"https://github.com/Henry-Yip"</span>
-        <span class="nv">title</span><span class="o">=</span><span class="s2">"Github"</span> <span class="o">&gt;</span>
-        &lt;i <span class="nv">class</span><span class="o">=</span><span class="s2">"fa fa-github share-button"</span><span class="o">&gt;</span> Github&lt;/i&gt;
-    &lt;/a&gt;
-    &lt;/div&gt;
+<p><a href="/2022/05/19/Katex.html">How to enable <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span> style mathematical symbols in Jekyll</a></p>
 
-&lt;/div&gt;
-&lt;style <span class="nb">type</span><span class="o">=</span><span class="s2">"text/css"</span><span class="o">&gt;</span>
-/<span class="k">*</span> Share Bar <span class="k">*</span>/
-<span class="c">#share-bar {</span>
-    font-size: 20px<span class="p">;</span>
-<span class="o">}</span>
-/<span class="k">*</span> Title <span class="k">*</span>/
-<span class="c">#share-bar h4 {</span>
-    margin-bottom: 10px<span class="p">;</span>
-    font-weight: 500<span class="p">;</span>
-<span class="o">}</span>
-/<span class="k">*</span> All buttons <span class="k">*</span>/
-.share-buttons <span class="o">{</span>
-<span class="o">}</span>
-/<span class="k">*</span> Each button <span class="k">*</span>/
-.share-button <span class="o">{</span>
-    margin: 0px<span class="p">;</span>
-    margin-bottom: 10px<span class="p">;</span>
-    margin-right: 3px<span class="p">;</span>
-    border: 1px solid <span class="c">#D3D6D2;</span>
-    padding: 5px 10px 5px 10px<span class="p">;</span>
-<span class="o">}</span>
-.share-button:hover <span class="o">{</span>
-    opacity: 1<span class="p">;</span>
-    color: <span class="c">#f1e101;</span>
-<span class="o">}</span>
-/<span class="k">*</span> Facebook button <span class="k">*</span>/
-.fa-facebook-official <span class="o">{</span>
-    color: <span class="c">#3b5998;</span>
-<span class="o">}</span>
-.fa-facebook-official:hover <span class="o">{</span>
-    background-color: <span class="c">#3b5998;</span>
-<span class="o">}</span>
-/<span class="k">*</span> LinkedIn button <span class="k">*</span>/
-.fa-linkedin <span class="o">{</span>
-    color: <span class="c">#007bb5;</span>
-<span class="o">}</span>
-.fa-linkedin:hover <span class="o">{</span>
-    background-color: <span class="c">#3b5998;</span>
-<span class="o">}</span>
-/<span class="k">*</span> Instagram button <span class="k">*</span>/
-.fa-instagram <span class="o">{</span>
-    color: <span class="c">#DD2A78;</span>
-<span class="o">}</span>
-.fa-instagram:hover <span class="o">{</span>
-    background-color: <span class="c">#3b5998;</span>
-<span class="o">}</span>
-/<span class="k">*</span> Instagram button <span class="k">*</span>/
-.fa-github <span class="o">{</span>
-    color: <span class="c">#171515;</span>
-<span class="o">}</span>
-.fa-github:hover <span class="o">{</span>
-    background-color: <span class="c">#3b5998;</span>
-<span class="o">}</span>
-    
-&lt;/style&gt;
-</code></pre></div></div>
-<p>And so you can see it’s really complicated!</p>
+<h3 id="final-touch">Final Touch</h3>
+<p>If you want an aesthetically beautiful website, you can include <strong>css</strong>. The basics should be trivial but it becomes increasingly complicated, and since Jekyll Themes are beautiful already (in my opinion), it may be unnecessary. 
+I do recommend you to check out <a href="/2022/05/22/JekyllSkins.html">this post</a> if you want to know more about the possible colours in Minima theme.</p>
+
 
   </div><a class="u-url" href="/2022/05/19/JekyllComparision.html" hidden></a>
 </article> 
