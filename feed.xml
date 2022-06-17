@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://henry-yip.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://henry-yip.github.io//" rel="alternate" type="text/html" /><updated>2022-06-16T21:13:58+08:00</updated><id>https://henry-yip.github.io//feed.xml</id><title type="html">A Platform for Everyone</title><subtitle>A Platform for Everyone</subtitle><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><entry><title type="html">Coding Game (C++)</title><link href="https://henry-yip.github.io//2022/06/16/Coding.html" rel="alternate" type="text/html" title="Coding Game (C++)" /><published>2022-06-16T00:00:00+08:00</published><updated>2022-06-16T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/16/Coding</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/16/Coding.html"><![CDATA[<p>Just because I’m bored… Each of these take a <em>really</em> short period of time anyways…</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://henry-yip.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://henry-yip.github.io//" rel="alternate" type="text/html" /><updated>2022-06-17T10:54:49+08:00</updated><id>https://henry-yip.github.io//feed.xml</id><title type="html">A Platform for Everyone</title><subtitle>A Platform for Everyone</subtitle><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><entry><title type="html">Coding Game (C++)</title><link href="https://henry-yip.github.io//2022/06/16/Coding.html" rel="alternate" type="text/html" title="Coding Game (C++)" /><published>2022-06-16T00:00:00+08:00</published><updated>2022-06-16T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/16/Coding</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/16/Coding.html"><![CDATA[<p>Just because I’m bored… Each of these take a <em>really</em> short period of time anyways…</p>
 
 <ul>
   <li><a href="/2022/06/16/cutoff.html">Cutoff Game</a></li>
@@ -37,7 +37,7 @@ int main<span class="o">()</span>
     cout&lt;&lt;"Success: "&lt;&lt;success&lt;&lt;"</span><span class="se">\n</span><span class="sh">";
     cout&lt;&lt;"Fail: "&lt;&lt;fail&lt;&lt;"</span><span class="se">\n</span><span class="sh">";
 }
-</span></code></pre></div></div>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[```bash #include #include #include]]></summary></entry><entry><title type="html">Prime Checker</title><link href="https://henry-yip.github.io//2022/06/16/Prime.html" rel="alternate" type="text/html" title="Prime Checker" /><published>2022-06-16T00:00:00+08:00</published><updated>2022-06-16T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/16/Prime</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/16/Prime.html"><![CDATA[<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#include &lt;iostream&gt;</span>
+</span></code></pre></div></div>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[```bash #include #include #include]]></summary></entry><entry><title type="html">Twin Primes</title><link href="https://henry-yip.github.io//2022/06/16/Prime.html" rel="alternate" type="text/html" title="Twin Primes" /><published>2022-06-16T00:00:00+08:00</published><updated>2022-06-16T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/16/Prime</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/16/Prime.html"><![CDATA[<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#include &lt;iostream&gt;</span>
 using namespace std<span class="p">;</span>
 
 bool isPrime<span class="o">(</span>int number<span class="o">)</span>
@@ -53,19 +53,20 @@ bool isPrime<span class="o">(</span>int number<span class="o">)</span>
 <span class="o">}</span>
 int main<span class="o">()</span>
 <span class="o">{</span>
-   int checker<span class="p">;</span>
-   cout&lt;&lt;<span class="s2">"Please enter a number: "</span><span class="o">&lt;&lt;</span><span class="sh">"\</span><span class="no">n</span><span class="sh">";
-   cin&gt;&gt; checker;
-
-   if (isPrime(checker))
-   {
-    cout&lt;&lt;"Yes"&lt;&lt;"</span><span class="se">\n</span><span class="sh">";
-   }
-   else 
-   {
-    cout&lt;&lt;"No"&lt;&lt;"</span><span class="se">\n</span><span class="sh">";
-   }
-}   
+    int range<span class="p">;</span>
+    int <span class="nv">counter</span><span class="o">=</span>0<span class="p">;</span>
+    cout&lt;&lt;<span class="s2">"What is the Maximum Number?"</span><span class="o">&lt;&lt;</span><span class="sh">"\</span><span class="no">n</span><span class="sh">";
+    cin&gt;&gt;range;
+    for (int i=2;i&lt;range;i++)
+    {
+        if (isPrime(i) &amp;&amp; isPrime(i+2))
+        {
+            cout&lt;&lt;i&lt;&lt;" &amp; "&lt;&lt;i+2&lt;&lt;"</span><span class="se">\n</span><span class="sh">";
+            counter++;
+        }
+    }
+    cout&lt;&lt;"The Number of Twin Primes Found is: " &lt;&lt; counter&lt;&lt;"</span><span class="se">\n</span><span class="sh">";
+}
 </span></code></pre></div></div>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><summary type="html"><![CDATA[```bash #include using namespace std;]]></summary></entry><entry><title type="html">Game 3 (Henry)</title><link href="https://henry-yip.github.io//2022/06/12/Game3.html" rel="alternate" type="text/html" title="Game 3 (Henry)" /><published>2022-06-12T00:00:00+08:00</published><updated>2022-06-12T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/12/Game3</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/12/Game3.html"><![CDATA[<p><strong>Bullet Game - 1 minute</strong></p>
 
 <ul>
@@ -347,7 +348,7 @@ P=\frac{K}{(KP_o^{-1}-1)e^{-rt}+1}
 <iframe src="/assets/signal.png" width="150%" height="440px"></iframe>
 
 <p><strong>Disclaimer:</strong>
-This publication / website / product / service contains information that is copied or extracted from data made available in the publications of the Hong Kong Observatory (the “Observatory”). The provision of the information copied or extracted from the Observatory’s publications shall not be constituted as any form of co-operation or affiliation by the Observatory with any person in relation to this publication / website / product / service or any contents herein. Nothing in this publication, the product or the service shall give rise to any representation, warranty or implication that the Observatory agrees with, approves of, recommends or endorses this publication / website / product / service. The Observatory does not have any liability, obligation or responsibility whatsoever for any loss, destruction or damages (including without limitation consequential loss, destruction or damages) howsoever arising from or in respect of your use or misuse of or reliance on or inability to use any contents herein.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Tropical" /><category term="Cyclones" /><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Daily Chess Puzzles (Henry) (Updated Automatically)</title><link href="https://henry-yip.github.io//2022/06/05/ChessPuzzles.html" rel="alternate" type="text/html" title="Daily Chess Puzzles (Henry) (Updated Automatically)" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/05/ChessPuzzles</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/05/ChessPuzzles.html"><![CDATA[<ul>
+This publication / website / product / service contains information that is copied or extracted from data made available in the publications of the Hong Kong Observatory (the “Observatory”). The provision of the information copied or extracted from the Observatory’s publications shall not be constituted as any form of co-operation or affiliation by the Observatory with any person in relation to this publication / website / product / service or any contents herein. Nothing in this publication, the product or the service shall give rise to any representation, warranty or implication that the Observatory agrees with, approves of, recommends or endorses this publication / website / product / service. The Observatory does not have any liability, obligation or responsibility whatsoever for any loss, destruction or damages (including without limitation consequential loss, destruction or damages) howsoever arising from or in respect of your use or misuse of or reliance on or inability to use any contents herein.</p>]]></content><author><name>Henry Yip</name><email>s2231321@ed.ac.uk</email></author><category term="Typhoon" /><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Daily Chess Puzzles (Henry) (Updated Automatically)</title><link href="https://henry-yip.github.io//2022/06/05/ChessPuzzles.html" rel="alternate" type="text/html" title="Daily Chess Puzzles (Henry) (Updated Automatically)" /><published>2022-06-05T00:00:00+08:00</published><updated>2022-06-05T00:00:00+08:00</updated><id>https://henry-yip.github.io//2022/06/05/ChessPuzzles</id><content type="html" xml:base="https://henry-yip.github.io//2022/06/05/ChessPuzzles.html"><![CDATA[<ul>
   <li><strong>Your Daily Puzzle from Lichess!</strong></li>
   <li><strong>It is updated daily and automatically!</strong></li>
   <li><strong>Click in to solve it/check analysis!</strong></li>
