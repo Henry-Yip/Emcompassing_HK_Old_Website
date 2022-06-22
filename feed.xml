@@ -9,8 +9,8 @@
 		<description>A Platform for Everyone</description>		
 		<sy:updatePeriod>daily</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://henry-yip.github.io/</link>
+		<atom:link href="https://henry-yip.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		<lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0800</lastBuildDate>
 		
 		
@@ -22,8 +22,8 @@
 </description>
 				
 				<pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/2022/06/18/DistancePrime.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2022/06/18/DistancePrime.html</guid>
+				<link>https://henry-yip.github.io//2022/06/18/DistancePrime.html</link>
+				<guid isPermaLink="true">https://henry-yip.github.io//2022/06/18/DistancePrime.html</guid>
 			</item>
 		
 			<item>
@@ -35,8 +35,8 @@ using namespace std;&lt;/iostream&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 16 Jun 2022 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/2022/06/16/primegap.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2022/06/16/primegap.html</guid>
+				<link>https://henry-yip.github.io//2022/06/16/primegap.html</link>
+				<guid isPermaLink="true">https://henry-yip.github.io//2022/06/16/primegap.html</guid>
 			</item>
 		
 			<item>
@@ -50,8 +50,8 @@ using namespace std;&lt;/iostream&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 16 Jun 2022 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/2022/06/16/cutoff.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2022/06/16/cutoff.html</guid>
+				<link>https://henry-yip.github.io//2022/06/16/cutoff.html</link>
+				<guid isPermaLink="true">https://henry-yip.github.io//2022/06/16/cutoff.html</guid>
 			</item>
 		
 	</channel>
